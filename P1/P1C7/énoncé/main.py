@@ -1,1 +1,1 @@
-# Écrivez votre code ici !
+ fruit = {"pomme": "rouge"; "banane": "jaune", "orange": "orange"}
